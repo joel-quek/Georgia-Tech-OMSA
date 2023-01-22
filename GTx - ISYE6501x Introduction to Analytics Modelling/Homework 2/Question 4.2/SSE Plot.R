@@ -1,4 +1,3 @@
-# WSS Stands for "Within Sums of Squares"
 sseplot<-function(data,nc=15,seed=1)
 {
   sse<-(nrow(data)-1)*sum(apply(data,2,var))
