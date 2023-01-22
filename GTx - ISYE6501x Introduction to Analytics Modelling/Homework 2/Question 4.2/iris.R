@@ -6,10 +6,10 @@ library(ggfortify)
 #---------------------------------------------------------------------------------
 mydata=select(iris,c(1,2,3,4))
 
-wssplot(mydata)
+sseplot(mydata)
 #--------------------------------------------------------------------------------
-KM = kmeans(mydata,2)
+cluster_model = kmeans(mydata,2)
 
-autoplot(KM,mydata,frame=TRUE)
+autoplot(cluster_model,mydata,frame=TRUE)
 
-KM$centers
+cluster_model$centers
