@@ -1,0 +1,31 @@
+Participant,Satisfaction (1-5),Ease of Use (1-5),Usefulness (1-5),Open-Ended Feedback
+Student 1,3,3,4,Very helpful
+Student 2,4,3,3,Good but could be better
+Student 3,4,3,4,Excellent
+Student 4,5,3,4,Good but could be better
+Student 5,5,4,5,Excellent
+Student 6,5,5,4,Needs improvement
+Student 7,5,3,5,Useful
+Student 8,5,3,4,Needs improvement
+Student 9,5,4,4,Good but could be better
+Student 10,4,5,4,Useful
+Student 11,5,5,5,Excellent
+Student 12,5,4,5,Useful
+Student 13,3,4,3,Very helpful
+Student 14,4,5,5,Useful
+Student 15,4,3,5,Very helpful
+Student 16,4,5,5,Useful
+Student 17,5,4,5,Very helpful
+Student 18,5,3,3,Good but could be better
+Student 19,5,3,5,Needs improvement
+Student 20,3,4,4,Excellent
+Teacher 1,5,4,4,Useful
+Teacher 2,3,4,5,Needs improvement
+Teacher 3,4,5,5,Excellent
+Teacher 4,5,5,4,Excellent
+Teacher 5,3,3,4,Very helpful
+Parent 1,3,4,3,Good but could be better
+Parent 2,5,3,4,Good but could be better
+Parent 3,4,3,4,Needs improvement
+Parent 4,4,3,5,Good but could be better
+Parent 5,4,3,4,Useful
