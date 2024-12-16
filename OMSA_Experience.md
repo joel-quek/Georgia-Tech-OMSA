@@ -189,7 +189,9 @@ The homework assignments were multiple-choice, but most of the questions (except
 The group project makes up a large portion of the grade, with project topics decided by the course instructors. I teamed up with WS again, along with two other guys who didn't pull their weight. One member left our group after the first meeting, and another disappeared midway through. WS and I were left to face the challenge together, I could fight Thanos with WS.
 
 The exams are very similar to Homework questions. I personally felt that the ARENA questions were not well designed, why do I need to know this?
+
 <img width="642" alt="image" src="https://github.com/user-attachments/assets/100d184e-6309-400a-ad0b-656bcd83d008" />
+
 Apart from the ARENA questions, please know that the questions are HEAVY on Mathematics, and really test your understanding of Calculus, Probability, summation/capital pi notation and Modular Arithmetic. If you do not have any strong background in these topics, you need to prepare yourself.
 
 ---
@@ -230,23 +232,39 @@ Students gain hands-on experience by coding in Python, building trading strategi
 
 This module is another beast by Dr Joyner. What a legendary module. There are no exams or projects, but 8 very well-designed coding assignments that are interconnected:
 
-*Project 1 Martingale*: Analyzing the Martingale betting strategy for risk management.
+*Project 1 Martingale*: 
 
-*Project 2 Optimize Portfolio*: Using optimization techniques to find the best portfolio allocation.
+Analyzing the Martingale betting strategy for risk management.
 
-*Project 3 Decision Trees and Ensembles*: Implementing decision tree learners, random trees, and ensemble methods for classification tasks.
+*Project 2 Optimize Portfolio*: 
 
-*Project 4 Regression Models*: Creating data sets suitable for linear regression and decision trees, and assessing model performance.
+Using optimization techniques to find the best portfolio allocation.
 
-*Project 5 Market Simulation*: Developing a market simulation to calculate portfolio metrics based on trade data.
+*Project 3 Decision Trees and Ensembles*: 
 
-*Project 6 Manual Strategy*: Designing a simple trading strategy with higher returns than a benchmark.
+Implementing decision tree learners, random trees, and ensemble methods for classification tasks.
 
-*Project 7 Q-Learning Robot*: Implementing Q-learning in a robot navigation scenario, applying reinforcement learning.
+*Project 4 Regression Models*: 
 
-*Project 8 Strategy Learner*: Framing the trading problem using machine learning methods from previous assignments (like Q-learning or ensemble models).
+Creating data sets suitable for linear regression and decision trees, and assessing model performance.
 
-Dr Joyner's modules are the hardest but most well thought through. The man is an *ARTIST*. 
+*Project 5 Market Simulation*: 
+
+Developing a market simulation to calculate portfolio metrics based on trade data.
+
+*Project 6 Manual Strategy*: 
+
+Designing a simple trading strategy with higher returns than a benchmark.
+
+*Project 7 Q-Learning Robot*: 
+
+Implementing Q-learning in a robot navigation scenario, applying reinforcement learning.
+
+*Project 8 Strategy Learner*: 
+
+Framing the trading problem using machine learning methods from previous assignments (like Q-learning or ensemble models).
+
+Dr Joyner's modules are the hardest but most well designed. The man is an *ARTIST*. 
 
 ### ISYE6740 Computational Data Analysis (CDA)
 
@@ -276,14 +294,17 @@ Here is a snippet from one of my homework reports
 
 The project was really a free-for-all. You could choose to do it in teams of one to four, hence I opted to do it alone. I did a project involving the [NASA Degradation Dataset on Kaggle](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps), and really had a chance to apply the Q-Learning algorithm from ML4T. The project was well-received.
 
+CDA made me think deeply about each algorithm and properly savour every proof and understand how they are mathematically derived. Through this course, I was able to gain a better understanding of the Gradient Descent Algorithm, and was able to co-publish [a paper](https://atcm.mathandtech.org/EP2024/abstracts.html#22173) with my Professor, Dr Ho Weng Kin, during Summer 2024. Dr Ho is like [Master Yoda](https://www.youtube.com/watch?v=fxCR2bFWHxM).
 
-I've done triathlons in my life, Summer 2024 was an academic triathlon that almost broke me.
+---
+
+I've done many triathlons in my life, and Summer 2024 was an academic triathlon that almost *broke me*.
 
 Swim: ML4T
 Always the worst, no one can be fully prepared for open water swims - the waves, getting kicked in the face or needing to pee on the move.
 
 Bike: HCI
-Easy if there are no hills, and you know this is the longest distance of the three. Pelotons in triathlons are the worst because they have poor overtaking etiquette.
+Easy if there are no hills, and you know this is the longest distance of the three. Pelotons in triathlons are the worst because other cyclists have poor overtaking etiquette.
 
 Run: CDA
 What I am good at and I experience flow while doing. 
