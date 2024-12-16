@@ -2,7 +2,7 @@
 ## The Origin Story
 It was a warm summer evening, circa 2022 A.D., when my friend (hereafter referred to a *Jpsilon*) turned to me and asked, *"Bro, have you ever thought about pursuing a Master's in Data Science?"* Without a moment's pause, I replied, *"Yes."*
 
-Two years later, that simple word unfolded into an unforgettable journey—one that saw exactly one of us cross the finish line.
+Two years later, that simple word unfolded into an unforgettable journey—one that saw exactly _one_ of us cross the finish line.
 
 ## The Rubric
 I will be rating modules based on two criteria
