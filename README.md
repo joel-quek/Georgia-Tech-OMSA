@@ -77,9 +77,16 @@ For those who are wondering, here is _The Menu_
 
 ## Summer 2023
 ### MGT6203 Data Analytics for Business (EdX)
+
 *Difficulty: 4/10*
+
 *Relevance: 8/10*
-This course was more Data than Business and introduced students to data transformations like log-log or log-linear transformations. This course has a large project component where I met a stellar group of teammates, especially my best teammate, WS, who went on to do many projects with. We would go to Vormir and collect the Soul Stone. Note that the relevance rating I'm giving is due to the project that we did. We performed a lot of 
+
+*Module Components: Homework, Exams and Project*
+
+This course focused more on data than business and introduced students to data transformations like log-log and log-linear transformations. There are some interesting and practical concepts to learn, such as understanding the math behind stock alpha and beta values, basic queuing problems, and statistical forecasting. The homework assignments require the use of R, and the exams are also multiple-choice. In my honest opinion, the exam for this module involved more calculations than ISYE 6501.
+
+The course also includes a large project component, where I had the pleasure of working with a stellar group of teammates, especially my best teammate, WS, with whom I went on to collaborate on many projects. We would go to Vormir and collect the Soul Stone. (Note: the relevance rating I'm giving is largely due to the project we worked on.) We performed extensive feature engineering and data cleaning for the project. The project itself is very open-ended, so get creative! My team did an excellent job.
 
 ## Fall 2023
 ### CSE6040 Computing for Data Analysis
