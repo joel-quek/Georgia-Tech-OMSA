@@ -170,21 +170,27 @@ The homework assignments were multiple-choice, but most of the questions (except
 <img width="375" alt="image" src="https://github.com/user-attachments/assets/47fdff28-d79e-45fb-ac1d-f927126cba7c" />
 
 
-The group project makes up a large portion of the grade, with project topics decided by the course instructors. I teamed up with WS again, along with two other guys who didn't pull their weight. One member left our group after the first meeting, and another disappeared midway through. Once again, WS and I were left to face the challenge together, I could fight Thanos with WS.
+The group project makes up a large portion of the grade, with project topics decided by the course instructors. I teamed up with WS again, along with two other guys who didn't pull their weight. One member left our group after the first meeting, and another disappeared midway through. WS and I were left to face the challenge together, I could fight Thanos with WS.
 
 ---
 
 ## An Interlude
-After Spring 2024, I realised that I had 5 modules and Practicum left. It was possible for me to finish OMSA *within the year*. However, ther was one problem - DVA cannot be taken during Summer, and you need to have cleared DVA before you are allowed to take Practicum, you are not allowed to do both concurrently. 
+After Spring 2024, I realized that I had five modules and the Practicum left. It was possible for me to finish the OMSA within the year. However, there was one problem—DVA cannot be taken during the Summer, and you need to have cleared DVA before you are allowed to take the Practicum. You’re not allowed to do both concurrently. So, I emailed Georgia Tech and appealed for permission to take both DVA and Practicum in the same semester. After a few back-and-forth emails, they granted my request. Thank you, GaTech Academic Team.
+
+Also, in Summer 2024, I decided to do what everyone advised against—taking three modules in a single semester. I had to appeal for permission to do so as well. 
+
+---
 
 ## Summer 2024
 ### CS6750 Human Computer Interaction
 
-*Difficulty: /10*
+*Difficulty: 9/10*
 
-*Relevance: /10*
+*Relevance: 8/10*
 
-*Module Components: *
+*Module Components: Homework, Quizzes, Exams, Projects*
+
+This module is a beast. I took this because I wanted one module that did not have any coding, because I thought it would be a 'break'. 
 
 ### CS7646 Machine Learning for Trading
 
@@ -201,6 +207,19 @@ After Spring 2024, I realised that I had 5 modules and Practicum left. It was po
 *Relevance: /10*
 
 *Module Components: *
+
+I've done triathlons in my life, this academic triathlon was one of the hardest ever.
+
+Swim: ML4T
+Always the worst, no one can be fully prepared for open water swims - the waves, getting kicked in the face or needing to pee on the move.
+
+Bike: HCI
+Easy if there are no hills, and you know this is the longest distance of the three. Pelotons in triathlons are the worst because they have poor overtaking etiquette.
+
+Run: CDA
+What I am great at and experience flow while doing. 
+
+---
 
 ## Fall 2024
 ### CSE6242 Data and Visual Analytics
