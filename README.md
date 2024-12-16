@@ -4,6 +4,14 @@ It was a warm summer evening, circa 2022 A.D., when my friend (hereafter referre
 
 Two years later, that simple word unfolded into an unforgettable journey—one that saw exactly **one** of us cross the finish line.
 
+## My Background
+I graduated from the National University of Singapore with an Honors Degree in Mathematics. During my undergrad, I also studied coding (C, MATLAB) and dabbled in Python as a working professional. So, while my ratings are rooted in a STEM background, they might not reflect the experiences of someone with a different academic history.
+
+## The Plot Twist
+After submitting my application to the OMSA program, I discovered that my Georgia Tech journey wouldn’t officially begin until Fall 2023. Then, on a chilly evening in 2022, Jpsilon suggested an idea: why not get a head start by taking some of the modules on EdX? The added bonus of potentially earning Advanced Standing credits was a chance too good to pass up. Needless to say, I signed up for the EdX modules while he supported me from a distance, like this scene from Hobbs & Shaw [watch here](https://www.youtube.com/watch?v=-nQw03QkTPU).
+
+
+---
 ## The Rubric
 I will be rating modules based on two criteria
 - **Difficulty**:
@@ -12,13 +20,6 @@ I will be rating modules based on two criteria
 - **Relevance**:
   
   How practical or valuable I found the module in real-world scenarios.
-
-## My Background
-I graduated from the National University of Singapore with an Honors Degree in Mathematics. During my undergrad, I also studied coding (C, MATLAB) and dabbled in Python as a working professional. So, while my ratings are rooted in a STEM background, they might not reflect the experiences of someone with a different academic history.
-
-## The Plot Twist
-After submitting my application to the OMSA program, I discovered that my Georgia Tech journey wouldn’t officially begin until Fall 2023. Then, on a chilly evening in 2022, Jpsilon suggested an idea: why not get a head start by taking some of the modules on EdX? The added bonus of potentially earning Advanced Standing credits was a chance too good to pass up.
-
 ---
 
 ## Spring 2023
