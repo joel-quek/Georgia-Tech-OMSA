@@ -91,21 +91,80 @@ The course also includes a large project component, where I had the pleasure of 
 ## Fall 2023
 ### CSE6040 Computing for Data Analysis
 
+*Difficulty: 7/10*
+
+*Relevance: 10/10*
+
+*Module Components: Homework and Exams*
+
+This module was very well-designed, and the lecturer is excellent. To be honest, I only watched the first lecture, but I found him engaging, and the content was presented very effectively. The homework introduces students to the Vocareum platform, where every coding assignment requires unit tests to score points, giving you immediate feedback. You can also check your output to see exactly where you went wrong and debug accordingly. There are 15 homework assignments, which means you'll be busy every week.
+
+The examinations for this course should not be taken lightly. They are proctored coding tests, and you cannot receive help from humans or AI. This is a great challenge for those who rely heavily on tools like ChatGPT or Co-Pilot for coding. The exams simulate real coding tests used in job interviews and cover everything from cleaning large datasets to developing complex Python dictionaries, SQL wrangling, REGEX, and more. Do not underestimate them—they will humble you, just as they did my friend.
+
+
 ## Spring 2024
 ### MGT8803 Business Fundamentals for Analytics
 
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
+
 ### ISYE6644 Simulation and Modelling for Engineering and Science
+
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
 
 ## Summer 2024
 ### CS6750 Human Computer Interaction
 
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
+
 ### CS7646 Machine Learning for Trading
 
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
+
 ### ISYE6740 Computational Data Analysis
+
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
 
 ## Fall 2024
 ### CSE6242 Data and Visual Analytics
 
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
+
 ### ISYE8803 Topics on High Dimensional Data Analytics
 
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
+
 ### CSE6748 Applied Analytics Practicum
+
+*Difficulty: /10*
+
+*Relevance: /10*
+
+*Module Components: *
