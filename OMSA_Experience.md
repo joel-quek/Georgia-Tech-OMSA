@@ -38,6 +38,8 @@ I will also share what the grading components are. All GaTech modules contain a 
 
 *Module Components: Homework and Exams*
 
+Grade: B (Advanced Standing Modules are ungraded)
+
 The lecture videos were well-produced, and the lecturer, Joel Sokol, is a phenomenal teacher. Expect to cover a wide range of machine learning algorithms and formulas. The homework assignments introduced me to R coding for the first time, which was a valuable learning experience. The lectures provide simple proof sketches for each formula (e.g., the SVM formula), which may give students the impression that the proofs will be tested. However, the exams were multiple-choice and focused on understanding the uses of different models, rather than detailed mathematical proofs. This was the first time in my life where a math exam didn't require any written work and was entirely multiple-choice. Overall, it's an excellent introduction to understanding various machine learning models, their use cases, and serves as a kind of "menu" showing what the OMSA program has to offer students. Dr. Sokol, if you're reading this and ever visit Singapore, let me buy you a meal.
 
 For those who are wondering, here is _The Menu_
@@ -95,6 +97,8 @@ Side note: Jpsilon asked me a lot of questions regarding this module, and I fina
 
 *Module Components: Homework, Exams and Project*
 
+Grade: A (Advanced Standing Modules are ungraded)
+
 This course focused more on data than business and introduced students to data transformations like log-log and log-linear transformations. There are some interesting and practical concepts to learn, such as understanding the math behind stock alpha and beta values, basic queuing problems, and statistical forecasting. The homework assignments require the use of R, and the exams are also multiple-choice. In my honest opinion, the exam for this module involved more calculations than ISYE 6501.
 
 The course also includes a large project component, where I had the pleasure of working with a stellar group of teammates, especially my best teammate, WS, with whom I went on to collaborate on many projects. I would bring WS to Vormir and [collect the Soul Stone](https://www.youtube.com/watch?v=BtyWRviYp0o). (Note: the relevance rating I'm giving is largely due to the project we worked on.) We performed extensive feature engineering and data cleaning for the project. The project itself is very open-ended, so get creative! My team did an excellent job.
@@ -109,6 +113,8 @@ The course also includes a large project component, where I had the pleasure of 
 *Relevance: 10/10*
 
 *Module Components: Homework and Exams*
+
+Grade: A
 
 This module was very well-designed, and the lecturer is excellent. To be honest, I only watched the first lecture, but I found him engaging, and the content was presented very effectively. The homework introduces students to the Vocareum platform, where every coding assignment requires unit tests to score points, giving you immediate feedback. You can also check your output to see exactly where you went wrong and debug accordingly. There are 15 homework assignments, which means you'll be busy every week.
 
@@ -139,6 +145,8 @@ The course was very well designed. Thank you Dr. Vuduc. Sorry I did not watch al
 
 *Module Components: Exams and a Supply Chain Simulation*
 
+Grade: C
+
 In this course, we explored four key areas: Accounting, Finance, Marketing, and Supply Chain. Each topic was assessed through a multiple-choice exam.
 
 I must admit that I didn't engage with the lecture materials or dedicate time to studying for the exams (hence I did not rate this module). The course primarily focused on business theories, which didn't align with my personal interests. Consequently, I chose to take the exams without studying, allowing me to concentrate on other modules.
@@ -152,6 +160,8 @@ Additionally, I was curious about the necessity of purchasing the Harvard Supply
 *Relevance: 8/10*
 
 *Module Components: Homework, Exams, Project*
+
+Grade: A
 
 I will summarize this module in my own words:
 
@@ -212,6 +222,8 @@ Also, in Summer 2024, I decided to do what everyone advised against—taking thr
 
 *Module Components: Homework, Quizzes, Exams, Projects*
 
+Grade: A
+
 This module is a beast. I took it thinking it would be a "break" from coding, but boy, was I wrong. There’s no coding, but a ton of readings.
 
 There are four quizzes, two tests, four homework assignments, and two projects. Sounds simple, right? No, let me tell you, the assignments aren’t a walk in the park. You’re expected to write essays based on the readings Dr. Joyner provides, and each reading can be at least 20 pages long. Each essay is a minimum of 600 words, and you’ll be cranking them out during quizzes and exams, all under time pressure.
@@ -227,6 +239,8 @@ I had a solid project team, though without WS, but we knocked out a perfect proj
 *Relevance: 10/10*
 
 *Module Components: Homework*
+
+Grade: C
 
 Students gain hands-on experience by coding in Python, building trading strategies, and working with real market data. The course provides a comprehensive introduction to applying machine learning methods to financial modeling, and some assignments challenge students to implement complex algorithms and refine their trading strategies. Expect a mix of coding, report writing, and testing different models on market data.
 
@@ -274,6 +288,8 @@ Dr Joyner's modules are the hardest but most well designed. The man is an *ARTIS
 
 *Module Components: Homework and Project*
 
+Grade: A
+
 This module is *MATH HEAVY*.
 
 The course covers important topics such as:
@@ -310,28 +326,67 @@ Run: CDA
 What I am good at and I experience flow while doing. 
 
 ---
+## A Resolution
+
+One would think I'd be crazy to repeat my mistake of taking three modules in a semester. Summer 24 almost broke me and I was about to test my limits even further by taking DVA, HDDA and Practicum in the same semester.
+
+But I was dead set on completing OMSA in 2024. If Hawkeye could survive all those world-ending events with a bow, maybe I have a shot.
+
+---
 
 ## Fall 2024
 ### CSE6242 Data and Visual Analytics
 
-*Difficulty: /10*
+*Difficulty: 99999/10*
 
-*Relevance: /10*
+*Relevance: 11/10*
 
-*Module Components: *
+*Module Components: Homework and Project*
+
+Grade: A
+
+DVA is the **hardest** module in OMSA in my opinion. I would like to point out that DVA is more of a *SOFTWARE ENGINEERING* module than a data science module.
+
+There are four homework assignments in this course—yes, only four. Each homework comes with a generous three-week deadline. Initially, I thought, "Wah, so much time ah?" No, bro. These homework assignments are from another realm.
+
+*Homework 1 (10%):*
+
+Focuses on foundational tasks like collecting and visualizing data, working with SQLite, and warming up with D3.js and OpenRefine.
+
+*Homework 2 (15%):*
+
+Emphasizes building complex D3.js visualizations and graphs. This assignment often includes bonus opportunities for additional points.
+
+*Homework 3 (15%):*
+
+Covers big data processing using tools like Apache Spark, Docker, and cloud platforms such as AWS, Azure, and GCP.
+
+*Homework 4 (10%):*
+
+Combines theoretical and practical machine learning techniques. This includes implementing PageRank and building a Random Forest Classifier using Python and Scikit-learn.
+
+The homework assignments are *brutal*, Homework 2 gave me many sleepless nights and endless frustrations. I have a lot of respect for software engineers who code with javascript and React. Homework 3 forced students to use the various cloud computing providers like AWS, Docker, Spark etc. Difficult? Yes. Useful? Immensely. No one in their right mind would put themselves through so much pain willingly, unless you are forced. 
+
+The project required groups of 4 minimum. Initially I thought to myself, "Why can't I just do with WS like in Simulation?" Once again, DVA proved me wrong. We had a group of 5 and we never stopped working. The project was free-for-all, we could choose any topic we wanted. We decided to build a model which predicted flight delays based on parameters like country of departure, time of the year, season, mileage etc, and we also built a Google Plug-In and website for end-users to key in their travel details and receive real-time updates on their flight delays. 
+
+This course is the most brutal course in OMSA, and it is also the most useful of all. It is compulsory anyway, all the best.
 
 ### ISYE8803 Topics on High Dimensional Data Analytics
 
-*Difficulty: /10*
+*Difficulty: 5/10*
 
-*Relevance: /10*
+*Relevance: 10/10*
 
-*Module Components: *
+*Module Components: Homework and Exams*
+
+Grade: A
 
 ### CSE6748 Applied Analytics Practicum
 
-*Difficulty: /10*
+*Difficulty: 10/10*
 
-*Relevance: /10*
+*Relevance: 11/10*
 
 *Module Components: *
+
+Grade: A
