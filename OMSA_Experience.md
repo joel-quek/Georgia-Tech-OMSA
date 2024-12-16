@@ -97,7 +97,7 @@ Side note: Jpsilon asked me a lot of questions regarding this module, and I fina
 
 This course focused more on data than business and introduced students to data transformations like log-log and log-linear transformations. There are some interesting and practical concepts to learn, such as understanding the math behind stock alpha and beta values, basic queuing problems, and statistical forecasting. The homework assignments require the use of R, and the exams are also multiple-choice. In my honest opinion, the exam for this module involved more calculations than ISYE 6501.
 
-The course also includes a large project component, where I had the pleasure of working with a stellar group of teammates, especially my best teammate, WS, with whom I went on to collaborate on many projects. I would bring WS to Vormir and collect the Soul Stone [Watch This](https://www.youtube.com/watch?v=BtyWRviYp0o). (Note: the relevance rating I'm giving is largely due to the project we worked on.) We performed extensive feature engineering and data cleaning for the project. The project itself is very open-ended, so get creative! My team did an excellent job.
+The course also includes a large project component, where I had the pleasure of working with a stellar group of teammates, especially my best teammate, WS, with whom I went on to collaborate on many projects. I would bring WS to Vormir and [collect the Soul Stone](https://www.youtube.com/watch?v=BtyWRviYp0o). (Note: the relevance rating I'm giving is largely due to the project we worked on.) We performed extensive feature engineering and data cleaning for the project. The project itself is very open-ended, so get creative! My team did an excellent job.
 
 ---
 
@@ -141,7 +141,7 @@ The course was very well designed. Thank you Dr. Vuduc. Sorry I did not watch al
 
 In this course, we explored four key areas: Accounting, Finance, Marketing, and Supply Chain. Each topic was assessed through a multiple-choice exam.
 
-I must admit that I didn't engage with the lecture materials or dedicate time to studying for the exams (hence I did not rate this module). The course primarily focused on business theories, which didn't align with my personal interests. Consequently, I chose to take the exams without extensive preparation, allowing me to concentrate on other modules.
+I must admit that I didn't engage with the lecture materials or dedicate time to studying for the exams (hence I did not rate this module). The course primarily focused on business theories, which didn't align with my personal interests. Consequently, I chose to take the exams without studying, allowing me to concentrate on other modules.
 
 Additionally, I was curious about the necessity of purchasing the Harvard Supply Chain Simulation for the course. 
 
@@ -161,7 +161,7 @@ This section introduces students to double integration, summation notation, and 
 
 _Using Arena and Excel to Run Simulations_
 
-What’s the point of using Arena when Python can run better simulations?
+Why use Arena when Python can run better simulations?
 
 _Random Number Generation_
 
@@ -188,6 +188,10 @@ The homework assignments were multiple-choice, but most of the questions (except
 
 The group project makes up a large portion of the grade, with project topics decided by the course instructors. I teamed up with WS again, along with two other guys who didn't pull their weight. One member left our group after the first meeting, and another disappeared midway through. WS and I were left to face the challenge together, I could fight Thanos with WS.
 
+The exams are very similar to Homework questions. I personally felt that the ARENA questions were not well designed, why do I need to know this?
+<img width="642" alt="image" src="https://github.com/user-attachments/assets/100d184e-6309-400a-ad0b-656bcd83d008" />
+Apart from the ARENA questions, please know that the questions are HEAVY on Mathematics, and really test your understanding of Calculus, Probability, summation/capital pi notation and Modular Arithmetic. If you do not have any strong background in these topics, you need to prepare yourself.
+
 ---
 
 ## An Interlude
@@ -198,7 +202,7 @@ Also, in Summer 2024, I decided to do what everyone advised against—taking thr
 ---
 
 ## Summer 2024
-### CS6750 Human Computer Interaction
+### CS6750 Human Computer Interaction (HCI)
 
 *Difficulty: 9/10*
 
@@ -206,25 +210,74 @@ Also, in Summer 2024, I decided to do what everyone advised against—taking thr
 
 *Module Components: Homework, Quizzes, Exams, Projects*
 
-This module is a beast. I took this because I wanted one module that did not have any coding, because I thought it would be a 'break'. 
+This module is a beast. I took it thinking it would be a "break" from coding, but boy, was I wrong. There’s no coding, but a ton of readings.
 
-### CS7646 Machine Learning for Trading
+There are four quizzes, two tests, four homework assignments, and two projects. Sounds simple, right? No, let me tell you, the assignments aren’t a walk in the park. You’re expected to write essays based on the readings Dr. Joyner provides, and each reading can be at least 20 pages long. Each essay is a minimum of 600 words, and you’ll be cranking them out during quizzes and exams, all under time pressure.
 
-*Difficulty: /10*
+And the projects? No different. HCI is all about designing UI for apps, and that means going through the entire needfinding process. You’ll need to survey and interview people before and after they use your product. So, while this module has no coding, don’t be fooled. You’ll spend a lot of time reading, researching, testing, and surveying/interviewing with people.
 
-*Relevance: /10*
+I had a solid project team, though without WS, but we knocked out a perfect project. 
 
-*Module Components: *
+### CS7646 Machine Learning for Trading (ML4T)
 
-### ISYE6740 Computational Data Analysis
+*Difficulty: 10/10*
 
-*Difficulty: /10*
+*Relevance: 10/10*
 
-*Relevance: /10*
+*Module Components: Homework*
 
-*Module Components: *
+Students gain hands-on experience by coding in Python, building trading strategies, and working with real market data. The course provides a comprehensive introduction to applying machine learning methods to financial modeling, and some assignments challenge students to implement complex algorithms and refine their trading strategies. Expect a mix of coding, report writing, and testing different models on market data.
 
-I've done triathlons in my life, this academic triathlon was one of the hardest ever.
+This module is another beast by Dr Joyner. What a legendary module. There are no exams or projects, but 8 very well-designed coding assignments that are interconnected:
+
+*Project 1 Martingale*: Analyzing the Martingale betting strategy for risk management.
+
+*Project 2 Optimize Portfolio*: Using optimization techniques to find the best portfolio allocation.
+
+*Project 3 Decision Trees and Ensembles*: Implementing decision tree learners, random trees, and ensemble methods for classification tasks.
+
+*Project 4 Regression Models*: Creating data sets suitable for linear regression and decision trees, and assessing model performance.
+
+*Project 5 Market Simulation*: Developing a market simulation to calculate portfolio metrics based on trade data.
+
+*Project 6 Manual Strategy*: Designing a simple trading strategy with higher returns than a benchmark.
+
+*Project 7 Q-Learning Robot*: Implementing Q-learning in a robot navigation scenario, applying reinforcement learning.
+
+*Project 8 Strategy Learner*: Framing the trading problem using machine learning methods from previous assignments (like Q-learning or ensemble models).
+
+Dr Joyner's modules are the hardest but most well thought through. The man is an *ARTIST*. 
+
+### ISYE6740 Computational Data Analysis (CDA)
+
+*Difficulty: 3/10*
+
+*Relevance: 8/10*
+
+*Module Components: Homework and Project*
+
+This module is *MATH HEAVY*.
+
+The course covers important topics such as:
+
+- Asymptotic analysis of machine learning methods
+- Objective functions and how to determine the right ones
+- Methods for assessing model errors
+- Theoretical aspects of machine learning, including statistical rigor
+- Practical applications of algorithms in real-world datasets
+
+Every homework assignment comes in two parts:
+1. MAthematical Proof of the machine learning method
+2. Code involving the machine learning method
+
+Here is a snippet from one of my homework reports
+<img width="533" alt="image" src="https://github.com/user-attachments/assets/21bca363-7799-4155-bcd2-f1d7e6c149b6" />
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/d59415f3-93fa-431e-b88f-f239bd84065c" />
+
+The project was really a free-for-all. You could choose to do it in teams of one to four, hence I opted to do it alone. I did a project involving the [NASA Degradation Dataset on Kaggle](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps), and really had a chance to apply the Q-Learning algorithm from ML4T. The project was well-received.
+
+
+I've done triathlons in my life, Summer 2024 was an academic triathlon that almost broke me.
 
 Swim: ML4T
 Always the worst, no one can be fully prepared for open water swims - the waves, getting kicked in the face or needing to pee on the move.
@@ -233,7 +286,7 @@ Bike: HCI
 Easy if there are no hills, and you know this is the longest distance of the three. Pelotons in triathlons are the worst because they have poor overtaking etiquette.
 
 Run: CDA
-What I am great at and experience flow while doing. 
+What I am good at and I experience flow while doing. 
 
 ---
 
