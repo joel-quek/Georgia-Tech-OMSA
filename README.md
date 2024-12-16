@@ -17,6 +17,8 @@ I graduated from the National University of Singapore with an Honors Degree in M
 ## The Plot Twist
 After submitting my application to the OMSA program, I discovered that my Georgia Tech journey wouldn’t officially begin until Fall 2023. Then, on a chilly evening in 2022, Jpsilon suggested an idea: why not get a head start by taking some of the modules on EdX? The added bonus of potentially earning Advanced Standing credits was a chance too good to pass up.
 
+---
+
 ## Spring 2023
 
 ### ISYE6501 Introduction to Analytics Modelling (EdX)
@@ -25,7 +27,9 @@ After submitting my application to the OMSA program, I discovered that my Georgi
 
 *Relevance: 7/10*
 
-The lecture videos were well-produced, and the lecturer, Joel Sokol, is a phenomenal teacher. Expect to cover a wide range of machine learning algorithms and formulas. The lectures provide simple proof sketches for each formula (e.g., the SVM formula), which may give students the impression that the proofs will be tested. However, the exams were multiple-choice and focused on understanding the uses of different models, rather than detailed mathematical proofs. This was the first time in my life where a math exam didn't require any written work and was entirely multiple-choice. Overall, it's an excellent introduction to understanding various machine learning models, their use cases, and serves as a kind of "menu" showing what the OMSA program has to offer students. Dr. Sokol, if you're reading this and ever visit Singapore, let me buy you a meal.
+*Module Components: Homework and Exams*
+
+The lecture videos were well-produced, and the lecturer, Joel Sokol, is a phenomenal teacher. Expect to cover a wide range of machine learning algorithms and formulas. The homework assignments introduced me to R coding for the first time, which was a valuable learning experience. The lectures provide simple proof sketches for each formula (e.g., the SVM formula), which may give students the impression that the proofs will be tested. However, the exams were multiple-choice and focused on understanding the uses of different models, rather than detailed mathematical proofs. This was the first time in my life where a math exam didn't require any written work and was entirely multiple-choice. Overall, it's an excellent introduction to understanding various machine learning models, their use cases, and serves as a kind of "menu" showing what the OMSA program has to offer students. Dr. Sokol, if you're reading this and ever visit Singapore, let me buy you a meal.
 
 For those who are wondering, here is _The Menu_
 
@@ -39,7 +43,7 @@ For those who are wondering, here is _The Menu_
 - ARIMA
 - GARCH
 
-####Regression Models
+#### Regression Models
 - Linear Regression
 - Logistic Regression
 - Advanced Regression
@@ -68,6 +72,8 @@ For those who are wondering, here is _The Menu_
 - Graph Analysis
 - Competitive Models
 - Deep Learning
+
+---
 
 ## Summer 2023
 ### MGT6203 Data Analytics for Business (EdX)
