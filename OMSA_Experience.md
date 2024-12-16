@@ -38,7 +38,7 @@ I will also share what the grading components are. All GaTech modules contain a 
 
 *Module Components: Homework and Exams*
 
-Grade: B (Advanced Standing Modules are ungraded)
+*Grade: A (Advanced Standing Modules are ungraded)*
 
 The lecture videos were well-produced, and the lecturer, Joel Sokol, is a phenomenal teacher. Expect to cover a wide range of machine learning algorithms and formulas. The homework assignments introduced me to R coding for the first time, which was a valuable learning experience. The lectures provide simple proof sketches for each formula (e.g., the SVM formula), which may give students the impression that the proofs will be tested. However, the exams were multiple-choice and focused on understanding the uses of different models, rather than detailed mathematical proofs. This was the first time in my life where a math exam didn't require any written work and was entirely multiple-choice. Overall, it's an excellent introduction to understanding various machine learning models, their use cases, and serves as a kind of "menu" showing what the OMSA program has to offer students. Dr. Sokol, if you're reading this and ever visit Singapore, let me buy you a meal.
 
@@ -97,7 +97,7 @@ Side note: Jpsilon asked me a lot of questions regarding this module, and I fina
 
 *Module Components: Homework, Exams and Project*
 
-Grade: A (Advanced Standing Modules are ungraded)
+*Grade: A (Advanced Standing Modules are ungraded)*
 
 This course focused more on data than business and introduced students to data transformations like log-log and log-linear transformations. There are some interesting and practical concepts to learn, such as understanding the math behind stock alpha and beta values, basic queuing problems, and statistical forecasting. The homework assignments require the use of R, and the exams are also multiple-choice. In my honest opinion, the exam for this module involved more calculations than ISYE 6501.
 
@@ -114,7 +114,7 @@ The course also includes a large project component, where I had the pleasure of 
 
 *Module Components: Homework and Exams*
 
-Grade: A
+*Grade: A*
 
 This module was very well-designed, and the lecturer is excellent. To be honest, I only watched the first lecture, but I found him engaging, and the content was presented very effectively. The homework introduces students to the Vocareum platform, where every coding assignment requires unit tests to score points, giving you immediate feedback. You can also check your output to see exactly where you went wrong and debug accordingly. There are 15 homework assignments, which means you'll be busy every week.
 
@@ -145,7 +145,7 @@ The course was very well designed. Thank you Dr. Vuduc. Sorry I did not watch al
 
 *Module Components: Exams and a Supply Chain Simulation*
 
-Grade: C
+*Grade: C*
 
 In this course, we explored four key areas: Accounting, Finance, Marketing, and Supply Chain. Each topic was assessed through a multiple-choice exam.
 
@@ -161,7 +161,7 @@ Additionally, I was curious about the necessity of purchasing the Harvard Supply
 
 *Module Components: Homework, Exams, Project*
 
-Grade: A
+*Grade: A*
 
 I will summarize this module in my own words:
 
@@ -222,7 +222,7 @@ Also, in Summer 2024, I decided to do what everyone advised against—taking thr
 
 *Module Components: Homework, Quizzes, Exams, Projects*
 
-Grade: A
+*Grade: A*
 
 This module is a beast. I took it thinking it would be a "break" from coding, but boy, was I wrong. There’s no coding, but a ton of readings.
 
@@ -240,7 +240,7 @@ I had a solid project team, though without WS, but we knocked out a perfect proj
 
 *Module Components: Homework*
 
-Grade: C
+*Grade: C*
 
 Students gain hands-on experience by coding in Python, building trading strategies, and working with real market data. The course provides a comprehensive introduction to applying machine learning methods to financial modeling, and some assignments challenge students to implement complex algorithms and refine their trading strategies. Expect a mix of coding, report writing, and testing different models on market data.
 
@@ -288,7 +288,7 @@ Dr Joyner's modules are the hardest but most well designed. The man is an *ARTIS
 
 *Module Components: Homework and Project*
 
-Grade: A
+*Grade: A*
 
 This module is *MATH HEAVY*.
 
@@ -457,7 +457,7 @@ HDDA is a stellar course and very well designed. It is very math heavy and not f
 
 *Module Components: *
 
-Grade: A
+*Grade: A*
 
 ![image](https://github.com/user-attachments/assets/1d10e71a-ebd7-469a-86ff-dca12742c347)
 
@@ -478,9 +478,14 @@ This involves thinking creatively and transforming existing predictors into new 
 At Michelin, we quickly realized that they had far more powerful supercomputers than my humble ASUS laptop. Their systems could probably run random forest algorithms in under an hour. What they really needed from us wasn’t brute-force computing power — they needed creativity and ingenuity to transform their data into actionable insights. That’s the true value a data scientist brings to the table: solving problems by rethinking the data, not just running the code. Something only a creative human mind can achieve, not ChatGPT.
 
 ---
+## Final Thoughts
+
+Clearing 7 modules and Practicum in 2024 was mentally exhausting, but I'm thankful I was able to hide how mentally shag I was from the people around me. Could I have done better if I took 2 modules per semester? I guess we'll never know. Regardless, I would highly recommend OMSA to anyone who wants to attain a deeper understanding of Data Science. OMSA is an affordable course with a very flexible schedule. Additionally, the instruction and content is fantastic.
 
 Two things I have yet to receive in 2024
-1. My newcomers lunch from my home church
-2. My GaTech t-shirt from both 2023 and 2024
+1. My GaTech t-shirt from both 2023 and 2024
+2. My newcomers lunch from my home church
 
-Regardless, I would highly recommend OMSA to anyone who wants to learn Data Science. OMSA is an affordable course with a very flexible schedule. Additionally, the instruction is fantastic.
+---
+
+
