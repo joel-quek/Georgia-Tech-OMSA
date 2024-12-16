@@ -20,6 +20,12 @@ I will be rating modules based on two criteria
 - **Relevance**:
   
   How practical or valuable I found the module in real-world scenarios.
+
+I will also share what the grading components are. All GaTech modules contain a combination of the following:
+
+- Homework
+- Examinations
+- Project(s)
 ---
 
 ## Spring 2023
