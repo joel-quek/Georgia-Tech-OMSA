@@ -20,8 +20,11 @@ After submitting my application to the OMSA program, I discovered that my Georgi
 ## Spring 2023
 
 ### ISYE6501 Introduction to Analytics Modelling (EdX)
+
 *Difficulty: 5/10*
+
 *Relevance: 7/10*
+
 The lecture videos were well-produced, and the lecturer, Joel Sokol, is a phenomenal teacher. Expect to cover a wide range of machine learning algorithms and formulas. The lectures provide simple proof sketches for each formula (e.g., the SVM formula), which may give students the impression that the proofs will be tested. However, the exams were multiple-choice and focused on understanding the uses of different models, rather than detailed mathematical proofs. This was the first time in my life where a math exam didn't require any written work and was entirely multiple-choice. Overall, it's an excellent introduction to understanding various machine learning models, their use cases, and serves as a kind of "menu" showing what the OMSA program has to offer students. Dr. Sokol, if you're reading this and ever visit Singapore, let me buy you a meal.
 
 For those who are wondering, here is _The Menu_
