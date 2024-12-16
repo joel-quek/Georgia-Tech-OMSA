@@ -140,26 +140,35 @@ Additionally, I was curious about the necessity of purchasing the Harvard Supply
 I will summarize this module in my own words:
 
 _Primer on Basic Calculus and Probability Theory_
+
 This section introduces students to double integration, summation notation, and basic modular arithmetic. It also covers discrete and continuous random variables and how to perform arithmetic on variance and expectation. This can be quite challenging for those without a foundation in calculus or probability theory.
 
 _Using Arena and Excel to Run Simulations_
+
 What’s the point of using Arena when Python can run better simulations?
 
 _Random Number Generation_
+
 This section focuses a lot on modular arithmetic and prime number theories. While random number generation is crucial for generating pseudo-random data points in simulations, it can be a bit abstract. You’ll be introduced to various Pseudo-Random Number (PRN) generators, including Linear Congruential Generators (LCGs) and the professor's favorite Desert Island Generator, which subtly uses Fermat's Theorem. Things get more complex when the professor introduces Tausworthe Generators, combining summation notation with modular arithmetic. This section is heavily tested.
 
 _Random Variate Generation_
+
 In this chapter, you’ll encounter two very important theorems: the Inverse Transform Theorem and LOTUS. You’ll learn how to generate various continuous random variables from the Uniform Distribution to create large simulation models. Expect to become familiar with Triangular, Weibull, Poisson, Normal distributions, and see how convolutions of these functions can generate new random variables. You’ll also learn the Acceptance-Rejection Method for generating random variables and study the formalized version of Brownian Motion.
 
 _Input and Output Analysis_
+
 Students will learn to define unbiased estimators and use capital pi notation to calculate Maximum Likelihood Estimates.
 
 _Comparing Systems_
+
 Students will learn to compute the Confidence Intervals of Means to pompare two different systems. They will also learn paried t-tests and differences of means.
 
 In summary: Random number generation creates the base data for simulations. Random variate generation transforms these numbers into meaningful variables based on real-world distributions. Input and output analysis ensures the data used and the results produced are accurate, helping make valid predictions and informed decisions from the simulation.
 
-The homework assignments were multiple-choice, but most of the questions (except for ARENA) required calculations. Some of these calculations were quite lengthy. I had to teach my groupmates how to approach the homework because they were fairly challenging.
+The homework assignments were multiple-choice, but most of the questions (except for ARENA) required calculations. Some of these calculations were quite lengthy. I had to teach my groupmates how to approach the homework problems because they were fairly challenging. Here is an example:
+
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/47fdff28-d79e-45fb-ac1d-f927126cba7c" />
+
 
 The group project makes up a large portion of the grade, with project topics decided by the course instructors. I teamed up with WS again, along with two other guys who didn't pull their weight. One member left our group after the first meeting, and another disappeared midway through. Once again, WS and I were left to face the challenge together, I could fight Thanos with WS.
 
