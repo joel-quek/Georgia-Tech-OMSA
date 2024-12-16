@@ -479,6 +479,8 @@ At Michelin, we quickly realized that they had far more powerful supercomputers 
 
 ---
 
-Two things I have yet to receive
-1. My newcomers lunch from my church
+Two things I have yet to receive in 2024
+1. My newcomers lunch from my home church
 2. My GaTech t-shirt from both 2023 and 2024
+
+Regardless, I would highly recommend OMSA to anyone who wants to learn Data Science. OMSA is an affordable course with a very flexible schedule. Additionally, the instruction is fantastic.
