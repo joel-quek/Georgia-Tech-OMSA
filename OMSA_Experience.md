@@ -97,7 +97,9 @@ Side note: Jpsilon asked me a lot of questions regarding this module, and I fina
 
 This course focused more on data than business and introduced students to data transformations like log-log and log-linear transformations. There are some interesting and practical concepts to learn, such as understanding the math behind stock alpha and beta values, basic queuing problems, and statistical forecasting. The homework assignments require the use of R, and the exams are also multiple-choice. In my honest opinion, the exam for this module involved more calculations than ISYE 6501.
 
-The course also includes a large project component, where I had the pleasure of working with a stellar group of teammates, especially my best teammate, WS, with whom I went on to collaborate on many projects. We would go to Vormir and collect the Soul Stone. (Note: the relevance rating I'm giving is largely due to the project we worked on.) We performed extensive feature engineering and data cleaning for the project. The project itself is very open-ended, so get creative! My team did an excellent job.
+The course also includes a large project component, where I had the pleasure of working with a stellar group of teammates, especially my best teammate, WS, with whom I went on to collaborate on many projects. I would bring WS to Vormir and collect the Soul Stone [Watch This](https://www.youtube.com/watch?v=BtyWRviYp0o). (Note: the relevance rating I'm giving is largely due to the project we worked on.) We performed extensive feature engineering and data cleaning for the project. The project itself is very open-ended, so get creative! My team did an excellent job.
+
+---
 
 ## Fall 2023
 ### CSE6040 Computing for Data Analysis
@@ -112,7 +114,21 @@ This module was very well-designed, and the lecturer is excellent. To be honest,
 
 The examinations for this course should not be taken lightly. They are proctored coding tests, and you cannot receive help from humans or AI. This is a great challenge for those who rely heavily on tools like ChatGPT or Co-Pilot for coding. The exams simulate real coding tests used in job interviews and cover everything from cleaning large datasets to developing complex Python dictionaries, SQL wrangling, REGEX, and more. Do not underestimate them—they will humble you, just as they did my friend.
 
-The course was very well designed. Thank you Dr. Vuduc.
+Skills that will be tested:
+
+*Mathematical Preliminaries*: Basics of probability, calculus, and linear algebra.
+
+*Python Programming*: A review of Python, particularly for data manipulation.
+
+*Data Representation*: Techniques for handling unstructured data, such as strings, and regular expressions.
+
+*Data Preprocessing and Visualization*: Methods for transforming and visualizing data for analysis.
+
+*Algorithms*: An introduction to pairwise association mining and working with different data structures.
+
+The course was very well designed. Thank you Dr. Vuduc. Sorry I did not watch all your lectures, I have ADHD.
+
+--- 
 
 ## Spring 2024
 ### MGT8803 Business Fundamentals for Analytics
