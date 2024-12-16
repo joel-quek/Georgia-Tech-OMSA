@@ -5,14 +5,14 @@ It was a warm summer evening, circa 2022 A.D., when my friend (hereafter referre
 Two years later, that simple word unfolded into an unforgettable journey—one that saw exactly **one** of us cross the finish line.
 
 ## My Background
-I graduated from the National University of Singapore with an Honors Degree in Mathematics. During my undergrad, I also studied coding (C, MATLAB) and dabbled in Python as a working professional. So, while my ratings are rooted in a STEM background, they might not reflect the experiences of someone with a different academic history.
+I graduated from NUS with a BSc in Mathematics. During my undergrad, I also studied coding (C, MATLAB etc) and dabbled in Python as a working adult. So, while my module ratings are rooted in a STEM background, they might not reflect the experiences of someone with a different academic history.
 
 ## The Plot Twist
 After submitting my application to the OMSA program, I discovered that my Georgia Tech journey wouldn’t officially begin until Fall 2023. Then, on a chilly evening in 2022, Jpsilon suggested an idea: why not get a head start by taking some of the modules on EdX? The added bonus of potentially earning Advanced Standing credits was a chance too good to pass up. Needless to say, I signed up for the EdX modules while he supported me from a distance, like [this scene](https://www.youtube.com/watch?v=-nQw03QkTPU) from Hobbs & Shaw.
 
 
 ---
-## The Rubric
+## The Rating Rubric
 I will be rating modules based on two criteria
 - **Difficulty**:
   
@@ -26,6 +26,9 @@ I will also share what the grading components are. All GaTech modules contain a 
 - Homework
 - Examinations
 - Project(s)
+
+I will also share my grades. Because what's the point of rushing the course if I did badly.
+
 ---
 
 ## Spring 2023
@@ -482,9 +485,9 @@ At Michelin, we quickly realized that they had far more powerful supercomputers 
 
 Clearing 7 modules and Practicum in 2024 was mentally exhausting, but I'm thankful I was able to hide how mentally shag I was from the people around me. Could I have done better if I took 2 modules per semester? I guess we'll never know. Regardless, I would highly recommend OMSA to anyone who wants to attain a deeper understanding of Data Science. OMSA is an affordable course with a very flexible schedule. Additionally, the instruction and content is fantastic.
 
-Two things I have yet to receive in 2024
+Finally, here are two things I have yet to receive in 2024
 1. My GaTech t-shirt from both 2023 and 2024
-2. My newcomers lunch from my home church
+2. My newcomers' lunch from my home church, I've been a member since 1989
 
 ---
 
