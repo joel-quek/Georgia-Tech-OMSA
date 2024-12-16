@@ -8,7 +8,7 @@ Two years later, that simple word unfolded into an unforgettable journey—one t
 I graduated from the National University of Singapore with an Honors Degree in Mathematics. During my undergrad, I also studied coding (C, MATLAB) and dabbled in Python as a working professional. So, while my ratings are rooted in a STEM background, they might not reflect the experiences of someone with a different academic history.
 
 ## The Plot Twist
-After submitting my application to the OMSA program, I discovered that my Georgia Tech journey wouldn’t officially begin until Fall 2023. Then, on a chilly evening in 2022, Jpsilon suggested an idea: why not get a head start by taking some of the modules on EdX? The added bonus of potentially earning Advanced Standing credits was a chance too good to pass up. Needless to say, I signed up for the EdX modules while he supported me from a distance, like this scene from Hobbs & Shaw [watch here](https://www.youtube.com/watch?v=-nQw03QkTPU).
+After submitting my application to the OMSA program, I discovered that my Georgia Tech journey wouldn’t officially begin until Fall 2023. Then, on a chilly evening in 2022, Jpsilon suggested an idea: why not get a head start by taking some of the modules on EdX? The added bonus of potentially earning Advanced Standing credits was a chance too good to pass up. Needless to say, I signed up for the EdX modules while he supported me from a distance, like [this scene](https://www.youtube.com/watch?v=-nQw03QkTPU) from Hobbs & Shaw.
 
 
 ---
@@ -82,7 +82,7 @@ For those who are wondering, here is _The Menu_
 - Competitive Models
 - Deep Learning
 
-Side note: Jpsilon asked me a lot of questions regarding this module, and I finally understood how Sheldon Cooper felt when teaching Penny Physics. Watch [this video](https://www.youtube.com/watch?v=E5_ccmHk_TY).
+Side note: Jpsilon asked me a lot of questions regarding this module, and I finally understood how Sheldon Cooper felt when [teaching Penny Physics](https://www.youtube.com/watch?v=E5_ccmHk_TY).
 
 ---
 
