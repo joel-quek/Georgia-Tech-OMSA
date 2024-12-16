@@ -6,9 +6,11 @@ Two years later, that simple word unfolded into an unforgettable journey—one t
 
 ## The Rubric
 I will be rating modules based on two criteria
-- Difficulty:
+- **Difficulty**:
+  
   How challenging the material is and how much effort (or pain) you should be prepared for.
-- Relevance
+- **Relevance**:
+  
   How practical or valuable I found the module in real-world scenarios.
 
 ## My Background
