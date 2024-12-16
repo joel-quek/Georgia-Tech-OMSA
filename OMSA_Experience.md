@@ -301,7 +301,7 @@ The course covers important topics such as:
 - Practical applications of algorithms in real-world datasets
 
 Every homework assignment comes in two parts:
-1. MAthematical Proof of the machine learning method
+1. Mathematical Proof of the machine learning method
 2. Code involving the machine learning method
 
 Here is a snippet from one of my homework reports
@@ -343,7 +343,7 @@ But I was dead set on completing OMSA in 2024. If Hawkeye could survive all thos
 
 *Module Components: Homework and Project*
 
-Grade: A
+*Grade: A*
 
 DVA is the **hardest** module in OMSA in my opinion. I would like to point out that DVA is more of a *SOFTWARE ENGINEERING* module than a data science module.
 
@@ -351,25 +351,25 @@ There are four homework assignments in this course—yes, only four. Each homewo
 
 *Homework 1 (10%):*
 
-Focuses on foundational tasks like collecting and visualizing data, working with SQLite, and warming up with D3.js and OpenRefine.
+Focuses on foundational tasks like collecting and visualizing data, working with SQLite, and warming up with D3.js and OpenRefine. You better take the D3 warmup *seriously*.
 
 *Homework 2 (15%):*
 
-Emphasizes building complex D3.js visualizations and graphs. This assignment often includes bonus opportunities for additional points.
+Emphasizes building complex D3.js visualizations and graphs. This assignment often includes bonus opportunities for additional points. I almost failed this homework assignment. It was a masssacre.
 
 *Homework 3 (15%):*
 
-Covers big data processing using tools like Apache Spark, Docker, and cloud platforms such as AWS, Azure, and GCP.
+Covers big data processing using tools like Apache Spark, Docker, and cloud platforms such as AWS, Azure, and GCP. 10/10 on the usefulness scale.
 
 *Homework 4 (10%):*
 
-Combines theoretical and practical machine learning techniques. This includes implementing PageRank and building a Random Forest Classifier using Python and Scikit-learn.
+Combines theoretical and practical machine learning techniques. This includes implementing PageRank and building a Random Forest Classifier using Python and Scikit-learn. Yes, you have to code a Random Forest algorithm from scratch, and you cannot hide behind Python libraries.
 
 The homework assignments are *brutal*, Homework 2 gave me many sleepless nights and endless frustrations. I have a lot of respect for software engineers who code with javascript and React. Homework 3 forced students to use the various cloud computing providers like AWS, Docker, Spark etc. Difficult? Yes. Useful? Immensely. No one in their right mind would put themselves through so much pain willingly, unless you are forced. 
 
-The project required groups of 4 minimum. Initially I thought to myself, "Why can't I just do with WS like in Simulation?" Once again, DVA proved me wrong. We had a group of 5 and we never stopped working. The project was free-for-all, we could choose any topic we wanted. We decided to build a model which predicted flight delays based on parameters like country of departure, time of the year, season, mileage etc, and we also built a Google Plug-In and website for end-users to key in their travel details and receive real-time updates on their flight delays. 
+The project required groups of 4 minimum. Initially I thought to myself, "Why can't I just do with WS like in Simulation?" Once again, DVA proved me wrong. We had a group of 5 and we never stopped working. The project was free-for-all, we could choose any topic we wanted. We decided to build a model which predicted flight delays based on parameters like country of departure, time of the year, season, mileage etc, and we also built a Google Plug-In and website for end-users to key in their travel details and receive real-time updates on their flight delays. We spent days running our models, performing feature engineering, generating feature importance, optimising our models and repeating the machine learning cycle up till the dat of submission. Not for the faint hearted. Thankfully, our project was very well received. 
 
-This course is the most brutal course in OMSA, and it is also the most useful of all. It is compulsory anyway, all the best.
+This course is the most brutal course in OMSA, but the skills acquired are immensely useful. I was half ready to get a D for this module. It is compulsory anyway, all the best to whoever is reading this.
 
 ### ISYE8803 Topics on High Dimensional Data Analytics
 
@@ -379,7 +379,75 @@ This course is the most brutal course in OMSA, and it is also the most useful of
 
 *Module Components: Homework and Exams*
 
-Grade: A
+*Grade: A*
+
+HDDA is basically CDA on crack. 
+
+Before I talk about the assignments, I will explain why HDDA is important, using jargon-free language.
+
+HDDA is important because it helps us make sense of extremely complex data, which is increasingly common in many fields today. When datasets have a huge number of variables—like hundreds of features in a machine learning model or genetic data in bioinformatics—traditional methods often fail or become inefficient. HDDA techniques are designed to handle such data effectively, focusing on:
+
+*Finding What Matters:* 
+
+In large datasets, many features may be irrelevant or redundant. HDDA identifies which variables are meaningful, simplifying the data without losing critical information.
+
+*Avoiding Overfitting:* 
+
+With too many variables and not enough observations, models can become overly specific to the training data. HDDA helps create generalized models that perform well on unseen data.
+
+*Improving Predictions:* 
+
+By focusing on the most important features and patterns, HDDA makes predictive models more accurate, which is valuable for engineers in designing systems or predicting performance.
+
+*Saving Resources:* 
+
+Processing high-dimensional data directly can be time-consuming and costly. HDDA reduces complexity, making it faster and more feasible to analyze data.
+
+Here are some concepts required for the assignments
+
+*Functional Data Analysis:*
+
+Techniques for analyzing data functions over a continuum (e.g., time series or spatial data).
+
+*Image Processing and Analysis:*
+
+Methods to process and extract meaningful information from image data.
+
+*Regularization in High-Dimensional Regression:*
+
+Strategies like Lasso, Ridge, Elastic Net, and sparsity-inducing norms to handle overfitting and select features.
+
+*Multilinear Algebra and Tensor Analysis:*
+
+Decompositions and methods for dimensionality reduction in tensor data (e.g., CP decomposition, Tucker decomposition).
+
+*Optimization Techniques:*
+
+Gradient descent, stochastic methods, and convex optimization for efficient algorithm development.
+
+*Applications in Machine Learning:*
+
+Methods to apply learned techniques in various real-world scenarios, particularly where data is high-dimensional or sparse.
+
+The homework assignments follow the same format as CDA homework assignments, where students are required to submit 
+1. Mathematical Proof of the machine learning method
+2. Code involving the machine learning method
+
+Here is a snippet of a HDDA Homework question
+
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/523fadec-c07e-4cd5-a866-6f4718e383f6" />
+
+The exams are take-home and open internet. They are basically the same as every HDDA homework assignment, but with a shorter deadline and higher weightage. If you ask me, I would say that the difficulty of the exam questions are no different from the homework. It's just that you have less time to work on them.
+
+Here is a snippet of what HDDA Exam Questions look like
+
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/7bff4dc0-160a-4a5c-8d2b-0945894736a7" />
+
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/fb97a584-054f-4247-98d5-34a8fec23bd2" />
+
+
+HDDA is a stellar course and very well designed. It is very math heavy and not for the faint hearted.
+
 
 ### CSE6748 Applied Analytics Practicum
 
@@ -390,3 +458,27 @@ Grade: A
 *Module Components: *
 
 Grade: A
+
+![image](https://github.com/user-attachments/assets/1d10e71a-ebd7-469a-86ff-dca12742c347)
+
+I had the privilege of completing my Practicum with Michelin North America. The Practicum can be as easy or challenging as you want it to be, and it’s designed to simulate real-world working conditions. My team of three had to coordinate across different time zones, squeezing in meetings whenever we could. Due to a Non-Disclosure Agreement, I can’t share specific details about the project, but Michelin makes tyres and hands out stars to chefs, so you can draw your own conclusions.
+
+We spent *days* on feature engineering alone. 
+
+At this juncture, let me take a moment to share my take on what defines a true data scientist. It’s not about being someone who writes code to run a random forest model for 12 hours — anyone with enough patience can do that. A real data scientist is someone who can look at raw data and do two critical things:
+
+1. Clean the data:
+
+This means identifying and removing outliers, normalizing variables, applying one-hot encoding, and performing accurate imputation to handle missing values.
+
+2. Feature Engineering:
+
+This involves thinking creatively and transforming existing predictors into new features that significantly boost model performance.
+
+At Michelin, we quickly realized that they had far more powerful supercomputers than my humble ASUS laptop. Their systems could probably run random forest algorithms in under an hour. What they really needed from us wasn’t brute-force computing power — they needed creativity and ingenuity to transform their data into actionable insights. That’s the true value a data scientist brings to the table: solving problems by rethinking the data, not just running the code. Something only a creative human mind can achieve, not ChatGPT.
+
+---
+
+Two things I have yet to receive
+1. My newcomers lunch from my church
+2. My GaTech t-shirt from both 2023 and 2024
