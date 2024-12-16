@@ -458,7 +458,7 @@ HDDA is a stellar course and very well designed. It is very math heavy and not f
 
 *Relevance: 11/10*
 
-*Module Components: *
+*Module Components: One semester-long Project*
 
 *Grade: A*
 
