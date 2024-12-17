@@ -211,9 +211,11 @@ Apart from the ARENA questions, please know that the questions are HEAVY on Math
 ---
 
 ## An Interlude
-After Spring 2024, I realized that I had five modules and the Practicum left. It was possible for me to finish the OMSA within the year. However, there was one problem—DVA cannot be taken during the Summer, and you need to have cleared DVA before you are allowed to take the Practicum. You’re not allowed to do both concurrently. So, I emailed Georgia Tech and appealed for permission to take both DVA and Practicum in the same semester. After a few back-and-forth emails, they granted my request. Thank you, GaTech Academic Team.
+After Spring 2024, I realized that I had five modules and the Practicum left. It was possible for me to finish the OMSA within the year. However, there was one problem—DVA cannot be taken during the Summer, and you need to have cleared DVA before you are allowed to take the Practicum. You’re not allowed to do both concurrently. So, I [emailed Georgia Tech](https://pe.gatech.edu/degrees/analytics/student-resources) and appealed for permission to take both DVA and Practicum in the same semester. After a few back-and-forth emails, they granted my request. Thank you, GaTech Academic Team.
 
 Also, in Summer 2024, I decided to do what everyone advised against—taking three modules in a single semester. I had to appeal for permission to do so as well. 
+
+The Georgia Tech Academic Support team is **spectacular**. They never failed to answer my questions. 
 
 ---
 
