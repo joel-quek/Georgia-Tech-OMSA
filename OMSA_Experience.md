@@ -36,7 +36,7 @@ I have the same GPA as [Charles Spencer in Captain America Civil War](https://ww
 
 ### ISYE6501 Introduction to Analytics Modelling (EdX)
 
-*Difficulty: 5/10*
+*Difficulty: 3/10*
 
 *Relevance: 7/10*
 
@@ -288,7 +288,7 @@ Dr Joyner's modules are the hardest but most well designed. The man is an *ARTIS
 
 ### ISYE6740 Computational Data Analysis (CDA)
 
-*Difficulty: 3/10*
+*Difficulty: 5/10*
 
 *Relevance: 8/10*
 
@@ -311,6 +311,7 @@ Every homework assignment comes in two parts:
 2. Code involving the machine learning method
 
 Here is a snippet from one of my homework reports
+
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/21bca363-7799-4155-bcd2-f1d7e6c149b6" />
 <img width="440" alt="image" src="https://github.com/user-attachments/assets/d59415f3-93fa-431e-b88f-f239bd84065c" />
 
@@ -320,7 +321,7 @@ CDA made me think deeply about each algorithm and properly savour every proof an
 
 ---
 
-I've done many triathlons in my life, and Summer 2024 was an academic triathlon that almost *broke me*.
+I've done a couple triathlons in my life, but Summer 2024 was an academic triathlon that almost *broke me*.
 
 Swim: ML4T
 Always the worst, no one can be fully prepared for open water swims - the waves, getting kicked in the face or needing to pee on the move.
@@ -329,19 +330,19 @@ Bike: HCI
 Easy if there are no hills, and you know this is the longest distance of the three. Pelotons in triathlons are the worst because other cyclists have poor overtaking etiquette.
 
 Run: CDA
-What I am good at and I experience flow while doing. 
+What I am good at and I experience flow while doing. Always my favourite of the three.
 
 ---
 ## A Resolution
 
 One would think I'd be crazy to repeat my mistake of taking three modules in a semester. Summer 24 almost broke me and I was about to test my limits even further by taking DVA, HDDA and Practicum in the same semester.
 
-But I was dead set on completing OMSA in 2024. If Hawkeye could survive all those world-ending events with a bow, maybe I have a shot.
+But I was set on completing OMSA in 2024. If Hawkeye could survive all those world-ending events with a bow, maybe I have a shot.
 
 ---
 
 ## Fall 2024 [12 Credit Hours]
-### CSE6242 Data and Visual Analytics
+### CSE6242 Data and Visual Analytics (DVA)
 
 *Difficulty: 99999/10*
 
@@ -361,7 +362,7 @@ Focuses on foundational tasks like collecting and visualizing data, working with
 
 *Homework 2 (15%):*
 
-Emphasizes building complex D3.js visualizations and graphs. This assignment often includes bonus opportunities for additional points. I almost failed this homework assignment. It was a masssacre.
+Emphasizes building complex D3.js visualizations and graphs. This assignment often includes bonus opportunities for additional points. I almost failed this homework assignment. It was a *masssacre*.
 
 *Homework 3 (15%):*
 
@@ -373,9 +374,9 @@ Combines theoretical and practical machine learning techniques. This includes im
 
 The homework assignments are *brutal*, Homework 2 gave me many sleepless nights and endless frustrations. I have a lot of respect for software engineers who code with javascript and React. Homework 3 forced students to use the various cloud computing providers like AWS, Docker, Spark etc. Difficult? Yes. Useful? Immensely. No one in their right mind would put themselves through so much pain willingly, unless you are forced. 
 
-The project required groups of 4 minimum. Initially I thought to myself, "Why can't I just do with WS like in Simulation?" Once again, DVA proved me wrong. We had a group of 5 and we never stopped working. The project was free-for-all, we could choose any topic we wanted. We decided to build a model which predicted flight delays based on parameters like country of departure, time of the year, season, mileage etc, and we also built a Google Plug-In and website for end-users to key in their travel details and receive real-time updates on their flight delays. We spent days running our models, performing feature engineering, generating feature importance, optimising our models and repeating the machine learning cycle up till the dat of submission. Not for the faint hearted. Thankfully, our project was very well received. 
+The project required groups of 4 minimum. Initially I thought to myself, "Why can't I just do with WS, like in Simulation?" Once again, DVA proved me wrong. We had a group of 5 and we never stopped working. The project was free-for-all, we could choose any topic we wanted. We decided to build a model which predicted flight delays based on parameters like country of departure, time of the year, season, mileage etc, and we also built a Google Plug-In and website for end-users to key in their travel details and receive real-time updates on their flight delays. We spent days running our models, performing feature engineering, generating feature importance, optimising our models and repeating the machine learning cycle up till the dat of submission. Not for the faint hearted. Thankfully, our project was very well received. 
 
-This course is the most brutal course in OMSA, but the skills acquired are immensely useful. I was half ready to get a D for this module. It is compulsory anyway, all the best to whoever is reading this.
+This course is the most brutal course in OMSA, but the skills acquired are immensely useful. I was half prepared to get a D for this module. It is compulsory anyway, all the best to whoever is about to take this module.
 
 ### ISYE8803 Topics on High Dimensional Data Analytics
 
