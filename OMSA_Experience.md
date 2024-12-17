@@ -151,7 +151,7 @@ The course was very well designed. Thank you Dr. Vuduc. Sorry I did not watch al
 
 *Grade: C*
 
-I didn't engage with the lecture materials or dedicate any time to studying for the exams (hence I did not rate this module). The course primarily focused on business theories, which didn't align with my personal interests. Consequently, I chose to take the exams without studying, allowing me to concentrate on other stuff in my life - like saving my friend's undergraduate honour's thesis ([BCheah](https://www.instagram.com/gotcheahback/?hl=en) I'm talking about you).
+I didn't engage with the lecture materials or dedicate any time to studying for the exams (hence I did not rate this module). The course primarily focused on business theories, which didn't align with my personal interests. Consequently, I chose to take the exams without studying, allowing me to concentrate on other stuff in my life - like saving my friend's undergraduate honour's thesis ([BCheah](https://www.youtube.com/watch?v=JU0VlqkCDk8&list=PLbOSqJKglMt1pcfTh6QNOnML7BUeZ8LZ4&index=3) I'm talking about you).
 
 In this course, four key areas are tested: Accounting, Finance, Marketing, and Supply Chain. Each topic was assessed through a multiple-choice exam.
 
