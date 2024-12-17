@@ -92,7 +92,7 @@ Side note: Jpsilon asked me a lot of questions regarding this module, and I fina
 
 ---
 
-## Summer 2023
+## Summer 2023 [3 Credit Hours]
 ### MGT6203 Data Analytics for Business (EdX)
 
 *Difficulty: 4/10*
@@ -109,7 +109,7 @@ The course also includes a large project component, where I had the pleasure of 
 
 ---
 
-## Fall 2023
+## Fall 2023 [3 Credit Hours]
 ### CSE6040 Computing for Data Analysis
 
 *Difficulty: 7/10*
@@ -140,7 +140,7 @@ The course was very well designed. Thank you Dr. Vuduc. Sorry I did not watch al
 
 --- 
 
-## Spring 2024
+## Spring 2024 [6 Credit Hours]
 ### MGT8803 Business Fundamentals for Analytics
 
 *Difficulty: ?/10*
@@ -217,7 +217,7 @@ Also, in Summer 2024, I decided to do what everyone advised against—taking thr
 
 ---
 
-## Summer 2024
+## Summer 2024 [9 Credit Hours]
 ### CS6750 Human Computer Interaction (HCI)
 
 *Difficulty: 9/10*
@@ -338,12 +338,12 @@ But I was dead set on completing OMSA in 2024. If Hawkeye could survive all thos
 
 ---
 
-## Fall 2024
+## Fall 2024 [12 Credit Hours]
 ### CSE6242 Data and Visual Analytics
 
 *Difficulty: 99999/10*
 
-*Relevance: 11/10*
+*Relevance: 10/10*
 
 *Module Components: Homework and Project*
 
@@ -457,7 +457,7 @@ HDDA is a stellar course and very well designed. It is very math heavy and not f
 
 *Difficulty: 10/10*
 
-*Relevance: 11/10*
+*Relevance: 10/10*
 
 *Module Components: One semester-long Project*
 
@@ -465,11 +465,11 @@ HDDA is a stellar course and very well designed. It is very math heavy and not f
 
 ![image](https://github.com/user-attachments/assets/1d10e71a-ebd7-469a-86ff-dca12742c347)
 
-I had the privilege of completing my Practicum with Michelin North America. The Practicum can be as easy or challenging as you want it to be, and it’s designed to simulate real-world working conditions. My team of three had to coordinate across different time zones, squeezing in meetings whenever we could. Due to a Non-Disclosure Agreement, I can’t share specific details about the project, but Michelin makes tyres and hands out stars to chefs, so you can draw your own conclusions.
+I had the privilege of completing my Practicum with Michelin North America. Technically you can approach your own company and propose a project to GaTech, or you can go with the list of companies that are partnered with the University. This also means that the Practicum can be as easy or challenging as you want it to be. What I love about Practicum is that it’s designed to simulate real-world working conditions. My team of three had to coordinate across different time zones, squeezing in meetings whenever we could. Due to a Non-Disclosure Agreement, I can’t share specific details about the project, but Michelin makes tyres and hands out stars to chefs, so you can draw your own conclusions. Side note, I think [One Fattened Calf](https://www.onefattenedcalf.com/) in Singapore deserves at least *one* star.
 
-We spent *days* on feature engineering alone. 
+The Practicum was a beast - we spent *weeks* on feature engineering and data cleaning alone. We spent a lot of time finding key features to make our model predictors leaner, and also searching for outliers that were skewing the data. It sounds simple, but imagine the dataset is larger than 20GB, and my computer can't even play Valorant without glitching.
 
-At this juncture, let me take a moment to share my take on what defines a true data scientist. It’s not about being someone who writes code to run a random forest model for 12 hours — anyone with enough patience can do that. A real data scientist is someone who can look at raw data and do two critical things:
+At this juncture, let me take a moment to share my take on what defines a **true data scientist**. It’s not about being someone who writes code to run a random forest model for 12 hours — anyone with enough patience can do that. A real data scientist is someone who can look at raw data and do two critical things:
 
 1. Clean the data:
 
@@ -484,11 +484,17 @@ At Michelin, we quickly realized that they had far more powerful supercomputers 
 ---
 ## Final Thoughts
 
-Clearing 7 modules and Practicum in 2024 was mentally exhausting, but I'm thankful I was able to hide how mentally shag I was from the people around me. Could I have done better if I took 2 modules per semester? I guess we'll never know. Regardless, I would highly recommend OMSA to anyone who wants to attain a deeper understanding of Data Science. OMSA is an affordable course with a very flexible schedule. Additionally, the instruction and content is fantastic.
+The rigour of Fall 2024 was on a whole different level compared to Summer 2024, so I’m still surprised I managed to do better in my final semester — especially since Summer almost broke me. Maybe it was that final push where I gave it everything I had, like the final 10km of a marathon.
+
+Clearing 7 modules plus Practicum in 2024 was *mentally exhausting*, thankfully I was able to hide how mentally shag I was from others. Could I have done better if I only took 2 modules per semester? I guess we'll never know. 
+
+Regardless, I would highly recommend OMSA to anyone who wants to attain a deeper understanding of Data Science. OMSA is an affordable course with a very flexible schedule and the instruction and content are **fantastic**. Don't take the easy way out - approach OMSA with a growth mindset and take the harder modules, because those are usually the ones where you can learn more from. Could someone take easier modules and graduate with a 3.8 GPA? Of course, but what's the point. 
 
 Finally, here are two things I have yet to receive in 2024
 1. My GaTech t-shirt from both 2023 and 2024
-2. My newcomers' lunch from my home church, I've been a member since 1989
+2. My newcomers' lunch from my [home church](https://www.bukitarang.church/explorechristianity/lifes-big-questions/#:~:text=Life's%20Big%20Questions%20is%20an,a%20relaxed%20and%20accessible%20way.), which I've been attending since 1989
+
+Thank you.
 
 ---
 
