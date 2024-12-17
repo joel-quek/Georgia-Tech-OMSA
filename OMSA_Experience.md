@@ -491,7 +491,7 @@ The rigour of Fall 2024 was on a whole different level compared to Summer 2024, 
 
 Clearing 7 modules plus Practicum in 2024 was *mentally exhausting*, thankfully I was able to hide how mentally shag I was from others. Could I have done better if I only took 2 modules per semester? I guess we'll never know. 
 
-Regardless, I would highly recommend OMSA to anyone who wants to attain a deeper understanding of Data Science. OMSA is an affordable course with a very flexible schedule and the instruction and content are **fantastic**. Don't take the easy way out - approach OMSA with a growth mindset and take the harder modules, because those are usually the ones where you can learn more from. Could someone take easier modules and graduate with a 3.8 GPA? Of course, but what's the point. 
+Regardless, I would highly recommend OMSA to anyone who wants to attain a deeper understanding of Data Science. OMSA is an affordable course with a very flexible schedule and the instruction and content are **fantastic**. Don't take the easy way out - approach OMSA with a growth mindset and take the harder modules, because those are usually the ones where you can learn more from. Could someone take easier modules and graduate with a 3.8 GPA? Of course, but the point is to *learn*, otherwise you are just purchasing a piece of paper. 
 
 Finally, here are two things I have yet to receive in 2024
 1. My GaTech t-shirt from both 2023 and 2024
