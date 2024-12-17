@@ -335,7 +335,7 @@ What I am good at and I experience flow while doing. Always my favourite of the 
 ---
 ## A Resolution
 
-One would think I'd be crazy to repeat my mistake of taking three modules in a semester. Summer 24 almost broke me and I was about to test my limits even further by taking DVA, HDDA and Practicum in the same semester.
+One would think I'd be crazy to repeat my mistake of taking three modules in a semester. Summer 24 almost broke me and I was about to test my limits even further by taking DVA, HDDA and Practicum in the same semester - three modules known to be extremely difficult to complete even on their own.
 
 But I was set on completing OMSA in 2024. If Hawkeye could survive all those world-ending events with a bow, maybe I have a shot.
 
