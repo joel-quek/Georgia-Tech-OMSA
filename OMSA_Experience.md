@@ -495,7 +495,7 @@ Regardless, I would highly recommend OMSA to anyone who wants to attain a deeper
 
 Finally, here are two things I have yet to receive in 2024
 1. My GaTech t-shirt from both 2023 and 2024
-2. My newcomers' lunch from my [home church](https://www.bukitarang.church/explorechristianity/lifes-big-questions/#:~:text=Life's%20Big%20Questions%20is%20an,a%20relaxed%20and%20accessible%20way.), which I've been attending since 1989
+2. My newcomers' lunch from my [home church](https://www.bukitarang.church/explorechristianity/lifes-big-questions/#:~:text=Life's%20Big%20Questions%20is%20an,a%20relaxed%20and%20accessible%20way.), which I've been attending for thirty years
 
 Thank you.
 
