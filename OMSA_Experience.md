@@ -27,11 +27,12 @@ I will also share what the grading components are. All GaTech modules contain a 
 - Examinations
 - Project(s)
 
-I will also share my grades. Because what's the point of rushing the course if I did badly.
+I will also share my grades - because finishing quickly wouldn’t mean much if the results didn’t hold up.
+I have the same GPA as [Charles Spencer in Captain America Civil War](https://www.youtube.com/watch?v=JmjRhmk800U) 
 
 ---
 
-## Spring 2023
+## Spring 2023 [3 Credit Hours]
 
 ### ISYE6501 Introduction to Analytics Modelling (EdX)
 
@@ -150,11 +151,11 @@ The course was very well designed. Thank you Dr. Vuduc. Sorry I did not watch al
 
 *Grade: C*
 
-In this course, we explored four key areas: Accounting, Finance, Marketing, and Supply Chain. Each topic was assessed through a multiple-choice exam.
+I didn't engage with the lecture materials or dedicate any time to studying for the exams (hence I did not rate this module). The course primarily focused on business theories, which didn't align with my personal interests. Consequently, I chose to take the exams without studying, allowing me to concentrate on other stuff in my life - like saving my friend's undergraduate honour's thesis (BCheah I'm talking about you).
 
-I must admit that I didn't engage with the lecture materials or dedicate time to studying for the exams (hence I did not rate this module). The course primarily focused on business theories, which didn't align with my personal interests. Consequently, I chose to take the exams without studying, allowing me to concentrate on other modules.
+In this course, four key areas are tested: Accounting, Finance, Marketing, and Supply Chain. Each topic was assessed through a multiple-choice exam.
 
-Additionally, I was curious about the necessity of purchasing the Harvard Supply Chain Simulation for the course. 
+Additionally, I am still curious about the necessity of purchasing the Harvard Supply Chain Simulation for the course. 
 
 ### ISYE6644 Simulation and Modelling for Engineering and Science
 
