@@ -1,0 +1,5 @@
+pip install streamlit
+
+cd "C:\Users\redoc\OneDrive\Desktop\DVA Project UI"
+
+python -m streamlit run app_final.py
