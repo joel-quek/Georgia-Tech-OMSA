@@ -1,0 +1,7 @@
+cd "C:\Users\redoc\OneDrive\Desktop\DVA Project UI"
+
+python -m streamlit run app.py
+
+python -m streamlit run app_simple_map2.py
+
+python -m streamlit run app_final.py
